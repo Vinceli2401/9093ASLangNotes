@@ -258,3 +258,9 @@ Typically 400 - 600 words
 
 Structure: overview(PATT), characteristic, structure , and language 
 
+# Common Mistakes
+There is no plural form of imagery ("imageries" is wrong)
+People tend to overlook **expanded noun phrases**
+
+
+
