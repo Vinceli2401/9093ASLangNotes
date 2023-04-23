@@ -34,7 +34,7 @@ not only to the place, but also to the environment
 
 Tone: one of positive, negative or mixed
 
-**physical description of imageries**
+**physical description of imagery**
 
 
 
