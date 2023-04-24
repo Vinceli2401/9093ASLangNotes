@@ -263,5 +263,10 @@ There is no plural form of imagery ("imageries" is wrong)
 
 People tend to overlook **expanded noun phrases**
 
+**Enumerate!** (not too specific though) It shows understanding of **close analysis**
+
+Always think about Aristoletean triad when you write analysis
+
+
 
 
