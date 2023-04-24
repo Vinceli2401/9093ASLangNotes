@@ -214,7 +214,7 @@ both diary and script are personal, conversational & personal tone, mixed tenses
 
 ### Article openings:
 
-funnel (macroscopic to microscopic), statistics, history, anecdote, definition, **dramatic opening (present continous tense)**, analogy
+funnel (macroscopic to microscopic), statistics, history, anecdote, definition, **dramatic opening (present tense)**, analogy
 
 
 
