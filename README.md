@@ -248,7 +248,7 @@ Beginning: context, state purpose, my role
 
 
 
-When you are doing the questions, **always annotate(5-6 language feature is fine) and analysis for structure, form and language.** Ergo, start from question b and backtrack to question a.
+When you are doing the questions, **always annotate(5-6 language features is fine) and analysis for structure, form and language.** Ergo, start from question b and backtrack to question a.
 
 
 
@@ -263,7 +263,9 @@ There is no plural form of imagery ("imageries" is wrong)
 
 People tend to overlook **expanded noun phrases**
 
-**Enumerate!** (not too specific though) It shows understanding of **close analysis**
+**Enumerate!** It shows understanding of **close analysis**
+
+But do not break down the structure too much (e.g. to each paragraph), an overall structure would be more effective.
 
 Always think about Aristoletean triad when you write analysis
 
