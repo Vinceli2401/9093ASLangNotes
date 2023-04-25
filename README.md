@@ -269,6 +269,7 @@ But do not break down the structure too much (e.g. to each paragraph), an overal
 
 Think about Aristoletean triad when you write analysis
 
+Analogy is good for articles and speeches: persuasive technique that is
 
 
 
