@@ -30,7 +30,7 @@ Attitude / viewpoint of one place
 
 not only to the place, but also to the environment
 
-**estrangement, challegenies and accomodations**
+**estrangement, challegies and accomodations**
 
 Tone: one of positive, negative or mixed
 
