@@ -267,7 +267,7 @@ People tend to overlook **expanded noun phrases**
 
 But do not break down the structure too much (e.g. to each paragraph), an overall structure would be more effective.
 
-Always think about Aristoletean triad when you write analysis
+Think about Aristoletean triad when you write analysis
 
 
 
