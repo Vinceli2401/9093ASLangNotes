@@ -228,6 +228,10 @@ Structure: overview(PATT), characteristic, structure, and language
 
 **Persuasive techniques:** Hypophora, Imperative, Comparative / Superlative, Parallelism, Personal Pronouns, Emotive Diction, Intensifier, Appeal to Authority / Address to Audience
 
+**Comparison markers:** Similarly, Likewise, Both, Compared to, Like
+
+However, in contrast, whereas, while, unlike
+
 # Paper 2
 
 ## Transactional writing: Discursive and Argumentative
