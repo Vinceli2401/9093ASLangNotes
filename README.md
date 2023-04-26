@@ -202,6 +202,32 @@ structral device: scripted speech
 
 both diary and script are personal, conversational & personal tone, mixed tenses
 
+Glossary:
+
+## Directed Response and Comparative Analysis
+
+Essentially a writing task
+
+**Form, tone, purpose, audience, viewpoint**
+
+***150-200 words is not a recommendation, is compulsory!!! you cannot go over it!*** 
+
+Beginning: context, state purpose, my role
+
+
+
+When you are doing the questions, **always annotate(5-6 language features is fine) and analysis for structure, form and language.** Ergo, start from question b and backtrack to question a.
+
+
+
+### Structring a comparative response
+
+Typically 400 - 600 words
+
+Structure: overview(PATT), characteristic, structure, and language 
+
+**Persuasive techniques:** Hypophora, Imperative, Comparative / Superlative, Parallelism, Personal Pronouns, Emotive Diction, Intensifier, Appeal to Authority / Address to Audience
+
 # Paper 2
 
 ## Transactional writing: Discursive and Argumentative
@@ -236,27 +262,7 @@ description of place for mood / atmosphere
 
 shift in time
 
-## Directed Response and Comparative Analysis
 
-Essentially a writing task
-
-**Form, tone, purpose, audience, viewpoint**
-
-***150-200 words is not a recommendation, is compulsory!!! you cannot go over it!*** 
-
-Beginning: context, state purpose, my role
-
-
-
-When you are doing the questions, **always annotate(5-6 language features is fine) and analysis for structure, form and language.** Ergo, start from question b and backtrack to question a.
-
-
-
-### Structring a comparative response
-
-Typically 400 - 600 words
-
-Structure: overview(PATT), characteristic, structure , and language 
 
 # Common Mistakes
 There is no plural form of imagery ("imageries" is wrong)
