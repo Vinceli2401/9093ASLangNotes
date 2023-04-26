@@ -202,7 +202,7 @@ structral device: scripted speech
 
 both diary and script are personal, conversational & personal tone, mixed tenses
 
-**Glossary: Parallelism, Balanced / Periodic / Declarative / Minor Sentence, Anaphora & Epistrophe, Anadiplosis & Epanalepsis, Hyperbaton, Imperative, Parentical / Antithetical Statement, Polysyntedon & Asyntedon; Metaphor & Simile & Personification / Analogy, Imagery (olfactory, visual, tactile, auditory, gustatory), Allusion, Metonymy & Synecdoche, Symbolism, Syllepsis, Connotation, Pre/Post-nomial modification, Superlative / Comparative, Jargon & Colloquialism, Onomotopoeia**
+**Glossary: Parallelism, Balanced / Periodic / Declarative / Minor Sentence, Anaphora & Epistrophe, Anadiplosis & Epanalepsis, Hyperbaton, Imperative, Parentical / Antithetical Statement, Polysyntedon & Asyntedon; Metaphor & Simile & Personification / Analogy, Imagery (olfactory, visual, tactile, kinasethtic, auditory, gustatory), Allusion, Metonymy & Synecdoche, Symbolism, Syllepsis, Connotation, Pre/Post-nomial modification, Superlative / Comparative, Jargon & Colloquialism, Onomotopoeia; Neologism, Bathos / Meiosis, Incongruity & Synaesthesia, Zoomorphism**
 
 ## Directed Response and Comparative Analysis
 
